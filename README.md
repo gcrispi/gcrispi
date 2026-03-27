@@ -1,9 +1,8 @@
-## Hi there 👋
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gcrispi/" target="_blank">
@@ -69,14 +68,10 @@
 
 ###
 
-Here are some ideas to get you started:
+Perfil:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Proyectos de mejora con metodologia Six-Sigma, Visualización PowerBI y Apps Resposiva con Django
+- 🌱 Bootcamp Python y Ciencia de Datos
+- 👯 Colaborando en Startup y proyectos de innovación
+
 -->
