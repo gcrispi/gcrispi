@@ -73,5 +73,3 @@ Perfil:
 - 🔭 Proyectos de mejora con metodologia Six-Sigma, Visualización PowerBI y Apps Resposiva con Django
 - 🌱 Bootcamp Python y Ciencia de Datos
 - 👯 Colaborando en Startup y proyectos de innovación
-
--->
